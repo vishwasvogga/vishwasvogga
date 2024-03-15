@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vishwasvogga full stack developer
-- 👀 I’m interested in Angular 8+, Node JS and Next JS.
-- 🌱 I’m currently learning creating beautiful websites
+- 👀 I’m interested in fullstack development, Machine learning and GenAI
 - 📫 How to reach me ... vishwasvogga@gmail.com
 
 <!---
