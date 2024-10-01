@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishwasvogga full stack developer
-- 👀 I’m interested in fullstack development, Machine learning and GenAI
+- 👀 I’m interested in fullstack development and GenAI
 - 📫 How to reach me ... vishwasvogga@gmail.com
 
 <!---
